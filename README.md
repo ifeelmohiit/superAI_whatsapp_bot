@@ -10,12 +10,18 @@ $ git clone https://github.com/ifeelmohiit/superAI_whatsapp_bot <br>
 $ cd superAI_whatsapp_bot <br>
 $ npm install <br>
 $ ls <br>
-$ npm i <br> 
+$ nano accesser.json <br> 
+$ paste the api in the given place then { press ctrl + o then enter } and then { press ctrl + x} 
+$ ls<br>
 $ node index.js <br><br>
 
 <br> 
 
-<h1>NOTE: SETUP KEYS IN accesser.json</h1>
+
+
+<h1>NOTE:- AFTER DOING ALL THE PROCCESS RESTART YOUR TERMINAL </h1>
+<h2> AND GO TO THE DIRECTORY WHERE YOU EXCUTED ALL THE PROCCESS </h2>
+        <h3>node index.js</h3>
 
 
 <b>Visit: on instagram if you have any problem :- 
