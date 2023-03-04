@@ -9,9 +9,13 @@ NOTE: DON'T MESS UP WITH INDEX.JS FILE. <br>
 $ git clone https://github.com/ifeelmohiit/superAI_whatsapp_bot <br>
 $ cd whatsapp-chatgpt <br>
 $ npm install <br>
-$ node index.js <br>
+$ ls
+$ npm i <br> 
+$ node index.js <br><br>
 
-<br> NOTE: SETUP KEYS IN accesser.json
+<br> 
+
+<h1>NOTE: SETUP KEYS IN accesser.json</>h1
 
 
 Visit: on instagram if you have any problem :- 
