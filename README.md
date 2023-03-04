@@ -7,7 +7,7 @@ NOTE: DON'T MESS UP WITH INDEX.JS FILE. <br>
 
 # How to Install? 
 $ git clone https://github.com/ifeelmohiit/superAI_whatsapp_bot <br>
-$ cd whatsapp-chatgpt <br>
+$ cd superAI_whatsapp_bot <br>
 $ npm install <br>
 $ ls <br>
 $ npm i <br> 
