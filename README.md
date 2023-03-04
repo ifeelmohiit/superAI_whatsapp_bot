@@ -20,8 +20,8 @@ $ node index.js <br><br>
 
 
 <h1>NOTE:- AFTER SCANING THE QR CODE  RESTART YOUR TERMINAL </h1>
-<h2> AND GO TO THE DIRECTORY WHERE YOU EXCUTED ALL THE PROCCESS </h2>
-        <h3>node index.js</h3>
+<h4> BHAIYO MAINE ACHE SE EXPLAIN KR DIYA HAI KAISE KYA KARNA HAI <br> AGAR FIR V PROBLEM HUI TO CONTACT ON MY SOCAIL HANDLE  </h4>
+      
 
 
 <b>Visit: on instagram if you have any problem :- 
