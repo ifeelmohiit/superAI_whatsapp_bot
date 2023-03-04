@@ -6,12 +6,12 @@ This is a source code to build a WhatsApp bot using OpenAI bot and Node.js. The 
 NOTE: DON'T MESS UP WITH INDEX.JS FILE. <br>
 
 # How to Install? 
-$ git clone https://github.com/ifeelmohiit/superAI_whatsapp_bot <br>
+$ git clone https://github.com/ifeelmohiit/superAI_whatsapp_bot.git <br>
 $ cd superAI_whatsapp_bot <br>
 $ npm install <br>
 $ ls <br>
 $ nano accesser.json <br> 
-$ paste the api in the given place then { press ctrl + o then enter } and then { press ctrl + x} 
+$ paste the api in the given place then { press ctrl + o then enter } and then { press ctrl + x} <br>
 $ ls<br>
 $ node index.js <br><br>
 
