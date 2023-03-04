@@ -9,17 +9,17 @@ NOTE: DON'T MESS UP WITH INDEX.JS FILE. <br>
 $ git clone https://github.com/ifeelmohiit/superAI_whatsapp_bot <br>
 $ cd whatsapp-chatgpt <br>
 $ npm install <br>
-$ ls
+$ ls <br>
 $ npm i <br> 
 $ node index.js <br><br>
 
 <br> 
 
-<h1>NOTE: SETUP KEYS IN accesser.json</>h1
+<h1>NOTE: SETUP KEYS IN accesser.json</h1>
 
 
-Visit: on instagram if you have any problem :- 
-<a href="https://www.instagram.com/ifeelmohiit/">instagram</a> <br>
+<b>Visit: on instagram if you have any problem :- 
+<a href="https://www.instagram.com/ifeelmohiit/">instagram</a> <br><b>
 
 # How to get OpenAI API?
 Visit: https://beta.openai.com/account/api-keys
